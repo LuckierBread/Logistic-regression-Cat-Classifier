@@ -1,0 +1,6 @@
+git
+numpy
+copy
+matplotlib
+h5py
+scipy
